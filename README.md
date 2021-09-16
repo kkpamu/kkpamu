@@ -1,0 +1,4 @@
+- 👋 Hi, I’m kkpamu
+- 👀 I’m interested in any System that runs on a code
+- 🌱 I’m unlearning what I know to Learn more
+- 💞️ I’m looking to collaborate on building small projects and learning
